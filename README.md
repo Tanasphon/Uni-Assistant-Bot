@@ -83,7 +83,7 @@ university-faq-chatbot/
 
 แชทบอทอัจฉริยะที่ออกแบบมาเพื่อให้ข้อมูลเกี่ยวกับคำถามต่างๆ ของมหาวิทยาลัย รองรับทั้งภาษาไทยและภาษาอังกฤษ โดยระบบจะตรวจจับภาษาที่ผู้ใช้ต้องการโดยอัตโนมัติ
 
-### �� คุณสมบัติ
+### 🤖 คุณสมบัติ
 
 - **รองรับ 2 ภาษา**: ตรวจจับและตอบกลับอัตโนมัติทั้งภาษาไทยและอังกฤษ
 - **หัวข้อที่รองรับ**:
@@ -154,82 +154,6 @@ university-faq-chatbot/
 - 🎓 Department-specific information
 - 📊 Data management from CSV files
 - 🤝 Natural language processing for better interaction
-
-## Prerequisites
-
-- Python 3.8 or higher
-- Telegram Bot Token
-- LINE Messaging API credentials
-- OpenAI API key
-
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Tanasphon/Uni-Assistant-Bot.git
-cd Uni-Assistant-Bot
-```
-
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Create a `.env` file in the root directory with the following content:
-```
-TELEGRAM_TOKEN=your_telegram_bot_token
-LINE_CHANNEL_ACCESS_TOKEN=your_line_channel_access_token
-LINE_CHANNEL_SECRET=your_line_channel_secret
-OPENAI_API_KEY=your_openai_api_key
-```
-
-## Usage
-
-1. Add your CSV files to the `data` directory
-2. Start the bot:
-```bash
-python main.py
-```
-
-3. For Telegram:
-   - Search for your bot using the bot's username
-   - Start a chat with the bot
-   - Use the `/start` command to begin
-
-4. For LINE:
-   - Add the bot as a friend using the LINE QR code
-   - Start chatting with the bot
-
-## Available Commands
-
-- `/start` - Start the bot and get welcome message
-- `/help` - Show available commands
-- `/datasets` - List available datasets
-- `/info [dataset]` - Get information about a specific dataset
-
-## Data Format
-
-Place your CSV files in the `data` directory. The bot will automatically load all CSV files and make them available for querying.
-
-Example CSV structure (courses.csv):
-```csv
-course_code,course_name,department,credits,prerequisites,description
-CS101,Introduction to Programming,Computer Science,3,None,Basic programming concepts
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
