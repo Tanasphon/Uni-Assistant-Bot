@@ -34,7 +34,7 @@ An intelligent chatbot designed to provide information about university-related 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/university-faq-chatbot.git
+git clone https://github.com/Tanasphon/Uni-Assistant-Bot.git
 cd university-faq-chatbot
 ```
 
@@ -103,7 +103,7 @@ university-faq-chatbot/
 
 1. โคลนโปรเจค:
 ```bash
-git clone https://github.com/yourusername/university-faq-chatbot.git
+git clone https://github.com/Tanasphon/Uni-Assistant-Bot.git
 cd university-faq-chatbot
 ```
 
