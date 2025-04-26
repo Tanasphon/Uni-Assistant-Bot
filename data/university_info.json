@@ -1,0 +1,44 @@
+{
+    "admission": {
+        "channels": {
+            "th": "ช่องทางการสมัครเรียนมีดังนี้:\n1. สมัครออนไลน์ผ่านเว็บไซต์\n2. สมัครด้วยตนเองที่มหาวิทยาลัย\n3. สมัครผ่านศูนย์แนะแนวการศึกษา",
+            "en": "Admission channels are as follows:\n1. Online application through the website\n2. In-person application at the university\n3. Application through educational counseling centers"
+        },
+        "terms": {
+            "th": "ความแตกต่างระหว่างเทอม 1/1 และ 1/2:\n- เทอม 1/1 เริ่มเดือนสิงหาคม\n- เทอม 1/2 เริ่มเดือนมกราคม\n- ระยะเวลาเรียนเท่ากันคือ 15 สัปดาห์\n- หลักสูตรและเนื้อหาเหมือนกัน",
+            "en": "Differences between Term 1/1 and 1/2:\n- Term 1/1 starts in August\n- Term 1/2 starts in January\n- Both terms are 15 weeks long\n- Same curriculum and content"
+        },
+        "documents": {
+            "th": "เอกสารที่จำเป็นสำหรับการสมัคร:\n1. ใบแสดงผลการศึกษา (Transcript)\n2. สำเนาบัตรประชาชน\n3. รูปถ่าย 1 นิ้ว\n4. ใบรับรองแพทย์\n5. หลักฐานการชำระเงิน",
+            "en": "Required documents for application:\n1. Academic transcript\n2. ID card copy\n3. 1-inch photo\n4. Medical certificate\n5. Payment receipt"
+        }
+    },
+    "transportation": {
+        "th": "การเดินทางมาที่มหาวิทยาลัย:\n1. รถไฟฟ้า BTS ลงสถานีบางกะปิ\n2. รถไฟฟ้าใต้ดิน MRT ลงสถานีลาดพร้าว\n3. รถประจำทางสาย 26, 27, 28, 29\n4. รถตู้ประจำทาง\n5. รถยนต์ส่วนตัว มีที่จอดรถให้บริการ",
+        "en": "Transportation to the university:\n1. BTS Skytrain to Bang Kapi Station\n2. MRT Subway to Lat Phrao Station\n3. Public buses: routes 26, 27, 28, 29\n4. Minibus service\n5. Private car with parking available"
+    },
+    "registration": {
+        "online": {
+            "th": "ขั้นตอนการสมัครออนไลน์:\n1. เข้าสู่ระบบเว็บไซต์มหาวิทยาลัย\n2. กรอกข้อมูลส่วนตัว\n3. อัพโหลดเอกสารที่จำเป็น\n4. ชำระเงินผ่านระบบออนไลน์\n5. ยืนยันการสมัคร",
+            "en": "Online registration process:\n1. Log in to the university website\n2. Fill in personal information\n3. Upload required documents\n4. Make online payment\n5. Confirm registration"
+        },
+        "reporting": {
+            "th": "เอกสารที่ต้องนำมารายงานตัว:\n1. ใบรับรองการสมัคร\n2. บัตรประชาชนตัวจริง\n3. ใบรับรองแพทย์\n4. หลักฐานการชำระเงิน\n5. รูปถ่าย 1 นิ้ว 2 ใบ\n\nการแต่งกาย:\n- นักศึกษาชาย: เสื้อเชิ้ตสีขาว กางเกงขายาวสีดำ\n- นักศึกษาหญิง: เสื้อเชิ้ตสีขาว กระโปรงสีดำ",
+            "en": "Documents required for reporting:\n1. Application confirmation\n2. Original ID card\n3. Medical certificate\n4. Payment receipt\n5. Two 1-inch photos\n\nDress code:\n- Male students: White shirt, black long pants\n- Female students: White shirt, black skirt"
+        }
+    },
+    "international": {
+        "th": "หลักสูตรนานาชาติ:\n- มีหลักสูตรเตรียมความพร้อมภาษาอังกฤษ\n- ระยะเวลาเรียน 1 เทอม\n- เน้นทักษะการฟัง พูด อ่าน เขียน\n- มีการทดสอบวัดระดับก่อนเริ่มเรียน\n- สอนโดยอาจารย์เจ้าของภาษา",
+        "en": "International programs:\n- English preparatory courses available\n- Duration: 1 semester\n- Focus on listening, speaking, reading, and writing skills\n- Placement test before starting\n- Taught by native English speakers"
+    },
+    "facilities": {
+        "coworking": {
+            "th": "พื้นที่ทำงานร่วมกัน:\n1. ห้องสมุดกลาง เปิด 08:00-20:00\n2. Learning Commons เปิด 24 ชั่วโมง\n3. Co-working Space แต่ละคณะ\n4. ร้านกาแฟในมหาวิทยาลัย\n5. สวนสาธารณะในมหาวิทยาลัย",
+            "en": "Coworking spaces:\n1. Main library (8:00 AM - 8:00 PM)\n2. Learning Commons (24 hours)\n3. Faculty-specific coworking spaces\n4. University cafés\n5. University park areas"
+        },
+        "sports": {
+            "th": "สถานที่ออกกำลังกาย:\n1. สระว่ายน้ำมาตรฐาน\n2. สนามฟุตบอล\n3. สนามเทนนิส\n4. ฟิตเนส\n5. สนามบาสเกตบอล\n6. ลานสเก็ตบอร์ด\n\nเปิดให้บริการทุกวัน 06:00-21:00",
+            "en": "Sports facilities:\n1. Standard swimming pool\n2. Football field\n3. Tennis courts\n4. Fitness center\n5. Basketball courts\n6. Skateboard park\n\nOpen daily from 6:00 AM to 9:00 PM"
+        }
+    }
+} 
